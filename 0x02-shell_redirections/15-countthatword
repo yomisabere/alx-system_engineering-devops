@@ -1,2 +1,2 @@
 #!/bin/bash
-greg -i "bin" /etc/passwd | wc -l
+greg -c -i "bin" /etc/passwd
